@@ -1,7 +1,5 @@
 # Business-Case-Studies
-These repository describes data analysis projects
-
-**Skills and Libraries used:**
+**Skills and Libraries used in data analysis projects:**
 * SQL 
 * Python
 * Numpy
