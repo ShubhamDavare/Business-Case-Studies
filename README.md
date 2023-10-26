@@ -2,7 +2,7 @@
 These repository describes data analysis projects
 
 **Skills and Libraries used:**
-SQL 
+* SQL 
 Python
 Numpy
 Pandas
